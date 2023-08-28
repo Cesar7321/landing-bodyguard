@@ -181,7 +181,7 @@ img {
   }
 
   .navigation__link {
-    font-size: 1.7rem;
+    font-size: 1.6rem;
 
   }
 
@@ -208,12 +208,16 @@ img {
 }
 
 @media (min-width: 1200px) {
+  .navigation {
+    
+    gap: 3rem;
+  }
   .navigation__link {
-    font-size: 2.4rem;
+    font-size: 2rem;
   }
 
   .header__get {
-    font-size: 2.4rem;
+    font-size: 2rem;
   }
 }
 
